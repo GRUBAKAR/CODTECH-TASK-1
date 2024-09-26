@@ -2,7 +2,7 @@
 Name: GRUBAKAR R
 Company: CODTECH IT SOLUTIONS
 ID:CT08DS7664
-Domain: EMBEDDED SYSTEMS
+Domain: PYTHON PROGRAMMING
 Duration:August to September 2024
 Mentor:Neelash
 Overview of the Project
